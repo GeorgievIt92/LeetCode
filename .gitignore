@@ -1,0 +1,16 @@
+# Ignore Visual Studio temporary files, build results, and
+# other files that are unnecessary for version control.
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Ignore build results
+[Bb]in/
+[Oo]bj/
+
+# Ignore other unnecessary files
+*.log
+*.tmp
+*.pdb
